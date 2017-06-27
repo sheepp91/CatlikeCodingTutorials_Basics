@@ -77,6 +77,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Clock\Clock.cs" />
     <Compile Include="Assets\Scripts\Fractals\Fractal.cs" />
+    <Compile Include="Assets\Scripts\FramesPerSecond\FPSCounter.cs" />
+    <Compile Include="Assets\Scripts\FramesPerSecond\FPSDisplay.cs" />
     <Compile Include="Assets\Scripts\FramesPerSecond\Nucleon.cs" />
     <Compile Include="Assets\Scripts\FramesPerSecond\NucleonSpawner.cs" />
   </ItemGroup>
